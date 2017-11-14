@@ -1,0 +1,20 @@
+{
+  "name": "jinnguyen/puja-image",
+  "description": "Puja-Image is library for handle image actions, like: crop, resize....",
+  "type": "library",
+  "license": "Apache License 2.0",
+  "keywords": ["Puja", "Image", "Resize"],
+  "authors": [
+    {
+      "name": "Jin Nguyen",
+      "email": "w2ajax@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Puja\\Image\\": "src/"
+    }
+  }
+}
